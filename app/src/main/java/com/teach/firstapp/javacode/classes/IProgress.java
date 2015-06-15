@@ -5,4 +5,5 @@ public interface IProgress {
     void showProgress();
 
     void hideProgress();
+
 }

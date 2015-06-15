@@ -6,6 +6,8 @@ public class StaticExample {
 
     static Object commonObject;
 
+    int i;
+
     public static int helperMethod() {
         return 1;
     }

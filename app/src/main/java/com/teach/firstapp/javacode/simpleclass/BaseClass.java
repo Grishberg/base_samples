@@ -32,7 +32,6 @@ public class BaseClass implements IHuman {
 //        some code
     }
 
-
     @Override
     public boolean isAlive() {
         return isAlive;
